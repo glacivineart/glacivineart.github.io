@@ -94,14 +94,11 @@ hr {
 
 /* photos */
 
-.entry img {
+img {
   display: block;
   max-width: 100%;
-  margin: 18px 0 6px 6px;
+  margin: 18px 0 22px 0;
   border: 1px solid #ddd;
-  background: white;
-  padding: 4px;
-  transform: rotate(-0.4deg);
 }
 
 /* captions */
@@ -122,3 +119,4 @@ hr {
 .entry:nth-child(odd) {
   margin-left: 2px;
 }
+
