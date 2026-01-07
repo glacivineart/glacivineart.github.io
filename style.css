@@ -2,7 +2,7 @@ body {
   font-family: serif;
   background: white;
   color: black;
-  max-width: 640px;
+  max-width: 1000px;
   margin: 60px auto;
   line-height: 1.5;
 }
@@ -42,3 +42,4 @@ nav {
 nav a {
   margin-right: 12px;
 }
+
